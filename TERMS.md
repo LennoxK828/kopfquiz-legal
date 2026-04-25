@@ -1,10 +1,10 @@
-# Nutzungsbedingungen — Mathquiz
+# Nutzungsbedingungen — Kopfquiz
 
 **Stand:** 25. April 2026
 
 ## 1. Geltungsbereich
 
-Diese Nutzungsbedingungen gelten für die Nutzung der iOS-App "Mathquiz" (im Folgenden: "App"), bereitgestellt von Oliver Kornmann (im Folgenden: "wir", "uns").
+Diese Nutzungsbedingungen gelten für die Nutzung der iOS-App "Kopfquiz" (im Folgenden: "App"), bereitgestellt von Oliver Kornmann (im Folgenden: "wir", "uns").
 
 ## 2. Vertragsschluss
 
@@ -12,7 +12,7 @@ Mit Installation und Start der App akzeptierst du diese Bedingungen. Lehnst du s
 
 ## 3. Funktionsumfang
 
-Mathquiz ist eine Kopfrechen-Trainings-App. Sie umfasst:
+Kopfquiz ist eine Kopfrechen-Trainings-App. Sie umfasst:
 - Tägliche Challenges
 - Duell-Modus gegen Bot-Gegner
 - Profilstatistiken und Achievements
@@ -22,10 +22,10 @@ Wir behalten uns vor, Funktionen zu erweitern, anzupassen oder zu entfernen.
 
 ## 4. In-App-Kauf
 
-### Lifetime-Unlock (`Mathquiz_lifetime`, 12,99 €)
+### Lifetime-Unlock (`kopfquiz_lifetime`, 12,99 €)
 Einmalkauf, unbefristet. Schaltet frei: Genius-AI-Coach, unbegrenzte Herzen, werbefreie Nutzung. Es handelt sich um ein **non-consumable** Produkt — du kannst es jederzeit über "Wiederherstellen" auf neuen Geräten reaktivieren.
 
-Mathquiz verkauft bewusst keine Verbrauchsartikel (keine Heart-Packs, keine Currency). Es gibt genau einen Kauf, der dir Mathquiz für immer freischaltet.
+Kopfquiz verkauft bewusst keine Verbrauchsartikel (keine Heart-Packs, keine Currency). Es gibt genau einen Kauf, der dir Kopfquiz für immer freischaltet.
 
 Käufe werden über Apple StoreKit abgewickelt. Es gelten die App-Store-Bedingungen von Apple. **Widerruf** ist über Apple Support möglich (14-Tage-Frist nach EU-Recht).
 

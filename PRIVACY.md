@@ -1,11 +1,11 @@
-# Datenschutzerklärung — Mathquiz
+# Datenschutzerklärung — Kopfquiz
 
 **Stand:** 25. April 2026
 **Verantwortlich:** Oliver Kornmann · oliver.kornmann66@gmail.com
 
 ## Kurzfassung
 
-Mathquiz ist eine Kopfrechen-Trainings-App. Die meisten Daten bleiben **lokal auf deinem iPhone**. Wir verwenden Werbung (Google AdMob) und einen Cloud-Backend (Supabase) für Score-Synchronisation. Keine Datenweitergabe an Dritte außerhalb der unten genannten Dienstleister.
+Kopfquiz ist eine Kopfrechen-Trainings-App. Die meisten Daten bleiben **lokal auf deinem iPhone**. Wir verwenden Werbung (Google AdMob) und einen Cloud-Backend (Supabase) für Score-Synchronisation. Keine Datenweitergabe an Dritte außerhalb der unten genannten Dienstleister.
 
 ---
 
@@ -68,7 +68,7 @@ In den App-Einstellungen unter "Konto" findest du die Funktion "Alle Daten lösc
 
 ## 7. Kinder
 
-Mathquiz ist nicht primär für Kinder unter 13 Jahren konzipiert. Wir sammeln wissentlich keine Daten von Kindern. Wenn du Eltern bist und vermutest, dass dein Kind Daten übermittelt hat, kontaktiere uns für eine sofortige Löschung.
+Kopfquiz ist nicht primär für Kinder unter 13 Jahren konzipiert. Wir sammeln wissentlich keine Daten von Kindern. Wenn du Eltern bist und vermutest, dass dein Kind Daten übermittelt hat, kontaktiere uns für eine sofortige Löschung.
 
 ## 8. Änderungen
 

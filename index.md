@@ -1,4 +1,4 @@
-# Mathquiz — Rechtliches
+# Kopfquiz — Rechtliches
 
 - [Datenschutzerklärung](./PRIVACY)
 - [Nutzungsbedingungen](./TERMS)
