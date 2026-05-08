@@ -2,15 +2,17 @@
 
 **Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):**
 
-Oliver Kornmann
-[Straße, PLZ Ort — bitte vor Veröffentlichung ergänzen]
+Lennox Kornmann
+Am Pachtersgrund 14
+98617 Meiningen
 Deutschland
 
 **Kontakt:**
-E-Mail: oliver.kornmann66@gmail.com
+E-Mail: kopfquiz123@gmail.com
+Telefon: Aus Datenschutzgründen bevorzugt Kontakt per E-Mail. Eine Telefonnummer zur unmittelbaren Kommunikation wird auf Anfrage über die genannte E-Mail-Adresse mitgeteilt.
 
 **Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**
-Oliver Kornmann (Anschrift wie oben)
+Lennox Kornmann (Anschrift wie oben)
 
 ---
 
