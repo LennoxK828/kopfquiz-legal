@@ -4,7 +4,7 @@
 
 ## 1. Geltungsbereich
 
-Diese Nutzungsbedingungen gelten für die Nutzung der iOS-App "Kopfquiz" (im Folgenden: "App"), bereitgestellt von Oliver Kornmann (im Folgenden: "wir", "uns").
+Diese Nutzungsbedingungen gelten für die Nutzung der iOS-App "Kopfquiz" (im Folgenden: "App"), bereitgestellt von Lennox Kornmann (im Folgenden: "wir", "uns").
 
 ## 2. Vertragsschluss
 
@@ -16,14 +16,13 @@ Kopfquiz ist eine Kopfrechen-Trainings-App. Sie umfasst:
 - Tägliche Challenges
 - Duell-Modus gegen Bot-Gegner
 - Profilstatistiken und Achievements
-- Optionale Genius-AI-Coaching-Analysen (Premium)
 
 Wir behalten uns vor, Funktionen zu erweitern, anzupassen oder zu entfernen.
 
 ## 4. In-App-Kauf
 
 ### Lifetime-Unlock (`kopfquiz_lifetime`, 12,99 €)
-Einmalkauf, unbefristet. Schaltet frei: Genius-AI-Coach, unbegrenzte Herzen, werbefreie Nutzung. Es handelt sich um ein **non-consumable** Produkt — du kannst es jederzeit über "Wiederherstellen" auf neuen Geräten reaktivieren.
+Einmalkauf, unbefristet. Schaltet frei: unbegrenzte Herzen, werbefreie Nutzung. Es handelt sich um ein **non-consumable** Produkt — du kannst es jederzeit über "Wiederherstellen" auf neuen Geräten reaktivieren.
 
 Kopfquiz verkauft bewusst keine Verbrauchsartikel (keine Heart-Packs, keine Currency). Es gibt genau einen Kauf, der dir Kopfquiz für immer freischaltet.
 
@@ -36,6 +35,16 @@ In der kostenlosen Version zeigen wir Werbung über Google AdMob. Premium-Nutzer
 ## 6. Verhaltensregeln
 
 Du verpflichtest dich, die App nicht zu manipulieren, nicht zu reverse-engineeren und keine automatisierten Skripte zur Score-Manipulation einzusetzen.
+
+## 6a. Nutzerverhalten und Inhalte
+
+Beim Spielen der Daily Challenge wird dein gewählter Anzeigename öffentlich auf der Bestenliste sichtbar. Mit der Nutzung dieses Features verpflichtest du dich:
+
+- keine beleidigenden, diskriminierenden oder hasserfüllten Begriffe als Anzeigenamen zu verwenden
+- keine fremden Identitäten anzunehmen
+- keine illegalen oder gewaltverherrlichenden Inhalte zu verbreiten
+
+Verstöße gegen diese Regeln können zur sofortigen Sperrung deines Anzeigenamens führen. Du kannst andere Spieler über das Kontextmenü auf der Bestenliste melden ("Spieler melden") oder ausblenden ("Spieler ausblenden"). Berichte werden innerhalb von 24 Stunden geprüft. Schreibe bei dringenden Fällen direkt an kopfquiz123@gmail.com.
 
 ## 7. Haftungsausschluss
 
@@ -55,4 +64,4 @@ Es gilt deutsches Recht. Verbraucher genießen den Schutz der zwingenden Vorschr
 
 ## 11. Kontakt
 
-oliver.kornmann66@gmail.com
+kopfquiz123@gmail.com
