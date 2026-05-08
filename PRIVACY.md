@@ -1,7 +1,7 @@
 # Datenschutzerklärung — Kopfquiz
 
 **Stand:** 25. April 2026
-**Verantwortlich:** Oliver Kornmann · oliver.kornmann66@gmail.com
+**Verantwortlich:** Lennox Kornmann · kopfquiz123@gmail.com
 
 ## Kurzfassung
 
@@ -50,6 +50,20 @@ Beim ersten App-Start fragen wir dich, ob du personalisierte Werbung erlauben m�
 
 Der Genius-Coach analysiert deine Fehler **vollständig auf deinem iPhone** mit Apple Intelligence (iOS 26+). Wenn dein Gerät Apple Intelligence nicht unterstützt, läuft eine lokale Heuristik. **In keinem Fall werden Fehler-Daten an Server übertragen.**
 
+## 4a. Auftragsverarbeitung & Datentransfer (Art. 28 DSGVO)
+
+Folgende Dienstleister verarbeiten Daten in unserem Auftrag. Mit jedem dieser Dienstleister besteht — soweit anwendbar — ein Auftragsverarbeitungsvertrag (AVV) gemäß Art. 28 DSGVO.
+
+| Dienstleister | Verarbeitete Daten | Standort | Rechtsgrundlage des Drittlandstransfers |
+|---|---|---|---|
+| Supabase, Inc. | Account-Identifier, Spielergebnisse | EU-Region (Frankfurt) | EU-intern, kein Drittlandstransfer |
+| Apple Inc. (StoreKit, App Store Server Notifications) | Transaktions-IDs, App Account Token (anonyme UUID) | EU/USA | Standardvertragsklauseln (SCC), Apple ist DPF-zertifiziert |
+| Google Ireland Ltd. (AdMob) | IDFA (nur bei ATT-Zustimmung), grobe Geräteinfos | EU/USA | Standardvertragsklauseln (SCC), Google LLC ist DPF-zertifiziert |
+
+Supabase setzt zur Bereitstellung des Dienstes ihrerseits Subdienstleister ein (z. B. AWS für Hosting). Eine vollständige Liste der Subdienstleister sowie das DPA findest du unter <https://supabase.com/legal/dpa>.
+
+**On-device-Verarbeitung (Apple Intelligence / Foundation Models):** Genius-Coach-Analysen werden ausschließlich lokal auf deinem Gerät erstellt. Es findet keine Verarbeitung durch externe Anbieter statt — auch nicht durch Apple-Server.
+
 ## 5. Deine Rechte (DSGVO)
 
 - **Auskunft** über gespeicherte Daten (Art. 15 DSGVO)
@@ -60,7 +74,7 @@ Der Genius-Coach analysiert deine Fehler **vollständig auf deinem iPhone** mit 
 - **Widerspruch** (Art. 21 DSGVO)
 - **Beschwerde** bei der zuständigen Aufsichtsbehörde
 
-Anfragen an: **oliver.kornmann66@gmail.com**
+Anfragen an: **kopfquiz123@gmail.com**
 
 ## 6. Lokale Daten löschen
 
