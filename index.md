@@ -4,4 +4,4 @@
 - [Nutzungsbedingungen](./TERMS)
 - [Impressum](./IMPRINT)
 
-Kontakt: oliver.kornmann66@gmail.com
+Kontakt: kopfquiz123@gmail.com
