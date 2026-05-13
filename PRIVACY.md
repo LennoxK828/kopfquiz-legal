@@ -1,6 +1,6 @@
 # Datenschutzerklärung — Kopfquiz
 
-**Stand:** 25. April 2026
+**Stand:** 13. Mai 2026
 **Verantwortlich:** Lennox Kornmann · kopfquiz123@gmail.com
 
 ## Kurzfassung
@@ -15,18 +15,22 @@ Folgende Daten werden ausschließlich auf deinem Gerät gespeichert (UserDefault
 
 - **Profildaten:** Name, Avatar, Level, XP, Trophäen, Streaks, Herzen
 - **Spielfortschritt:** abgeschlossene Aufgaben, Fehlerstatistik, Achievements, Daily-Challenge-Resultate
-- **Einstellungen:** App-Konfiguration, Freundecodes, Erinnerungs-Timer
+- **Einstellungen:** App-Konfiguration, Erinnerungs-Timer
+- **Freundeliste:** lokal gespeicherte Freundescodes deiner Kontakte (siehe auch Abschnitt 2 — eigener Code + Anzeigename werden bei eingeschaltetem Server-Sync hochgeladen, damit Freunde dich für Duelle finden)
 - **Genius-Coach-Analysen:** werden vollständig **on-device** mit Apple Intelligence (Foundation Models, iOS 26+) erstellt. Deine Fehler verlassen dein Gerät nicht.
 
 ## 2. Welche Daten werden an Server übertragen?
 
 ### Supabase (Cloud-Datenbank, EU-Region)
-Wenn du dich mit einem Konto einloggst und Score-Sync aktiv ist, übertragen wir:
+Wenn du dich mit einem Konto einloggst und Server-Sync aktiv ist, übertragen wir:
 - Spielergebnisse (Score, Streak, Dauer, Modus)
 - Account-Identifier (E-Mail oder Provider-ID)
+- **Freundescode** (8-stelliger Code wie "ABCD-EFGH"): damit andere Spieler dich für asynchrone Duelle finden können
+- **Anzeigename** (dein Spielername, max. 32 Zeichen): damit Gegner deinen Namen im Duell-Ergebnis sehen
+- **Asynchrone Duell-Daten:** wenn du einen Freund herausforderst oder selbst herausgefordert wirst, werden Spieler-IDs, Modus, Frage-Seed und beide Scores gespeichert. Einträge werden 24h nach Erstellung automatisch ablaufen.
 
 **Anbieter:** Supabase, Inc. — Server in der EU.
-**Zweck:** Cross-Device-Sync, anonymisierte Bestenlisten.
+**Zweck:** Cross-Device-Sync, anonymisierte Bestenlisten, asynchrone Freundes- und Zufalls-Duelle.
 **Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung).
 
 ### Google AdMob (Werbung)
@@ -56,7 +60,7 @@ Folgende Dienstleister verarbeiten Daten in unserem Auftrag. Mit jedem dieser Di
 
 | Dienstleister | Verarbeitete Daten | Standort | Rechtsgrundlage des Drittlandstransfers |
 |---|---|---|---|
-| Supabase, Inc. | Account-Identifier, Spielergebnisse | EU-Region (Frankfurt) | EU-intern, kein Drittlandstransfer |
+| Supabase, Inc. | Account-Identifier, Spielergebnisse, Freundescode, Anzeigename, Duell-Einträge | EU-Region (Frankfurt) | EU-intern, kein Drittlandstransfer |
 | Apple Inc. (StoreKit, App Store Server Notifications) | Transaktions-IDs, App Account Token (anonyme UUID) | EU/USA | Standardvertragsklauseln (SCC), Apple ist DPF-zertifiziert |
 | Google Ireland Ltd. (AdMob) | IDFA (nur bei ATT-Zustimmung), grobe Geräteinfos | EU/USA | Standardvertragsklauseln (SCC), Google LLC ist DPF-zertifiziert |
 
